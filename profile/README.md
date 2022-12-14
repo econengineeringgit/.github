@@ -8,6 +8,6 @@ we offer our expertise in solving various problems ranging from simple analyses 
 
 ## How can we help you?
 
-* As an *Ansys* and *Moldex* channel partner we can provide automation soulution in leading sumulation softwares.
-* We are developing standalone tools in python to accelarete simulation workflows.
-* We have extensive experinece in automatic PowerPoint report generation using the [python-pptx](https://github.com/scanny/python-pptx) library.
+* As an *Ansys* and *Moldex3D* channel partner we can provide automation solution in leading simulation software.
+* We are developing standalone tools in python to accelerate simulation workflows.
+* We have extensive experience in automatic PowerPoint report generation using the [python-pptx](https://github.com/scanny/python-pptx) library.
